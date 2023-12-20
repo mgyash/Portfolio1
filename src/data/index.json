@@ -1,0 +1,27 @@
+{
+ 
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Apna Shop",
+      "description": "It is a web application to facilitate e-commerce for clothing. As well as having a user dashboard,it also includes an ADMIN dashboard.",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Gamerspoint",
+      "description": "It's an e-commerce web application for computer accessories and gaming equipment. It also features an ADMIN dashboard.It was developed using c#.net(core).",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "ZoomClone",
+      "description": "A single app that combines team meetings with live chat from anywhere. It was developed using node.js,HTML and CSS",
+      "link": "View In Github"
+    }
+  ]
+ 
+}
